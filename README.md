@@ -26,7 +26,7 @@ A lightweight, plug-and-play Laravel package for managing virtual wallets, suppo
 ## 📦 Installation
 
 ```bash
-composer require haxneeraj/laravel-virtual-wallet
+composer require vinalask3/laravel-virtual-wallet
 php artisan vendor:publish --provider="Vinalask3\LaravelVirtualWallet\LaravelVirtualWalletServiceProvider"
 php artisan migrate
 ```
