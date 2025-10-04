@@ -33,6 +33,30 @@ enum CurrencyEnum: string
      * USD is the official currency of the United States and is widely used in international transactions.
      */
     case USD = 'usd';
+    /**
+     * Enum case representing the Nigerian Naira (NGN).
+     * 
+     * NGN is the official currency of Nigeria.
+     */
+    case NGN = 'ngn';
+    /**
+     * Enum case representing the South African Rand.
+     * 
+     * ZAR is the official currency of South Africa.
+     */
+    case ZAR = 'zar';
+    /**
+     * Enum case representing the Kenyan Shilling.
+     * 
+     * KES is the official currency of Kenya.
+     */
+    case KES = 'kes';
+    /**
+     * Enum case representing the Ghana Cedis.
+     * 
+     * GHC is the official currency of Ghana.
+     */
+    case GHC = 'ghc';
 
     /**
      * Enum case representing the Indian Rupee (INR).
